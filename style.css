@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.btn {
+    border-color: black;
+    color: black;
+    font-size: 20px;
+}
+.input {
+    width: 100%;
+}
+.big {
+    width: 40%;
+}
